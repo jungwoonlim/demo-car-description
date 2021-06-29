@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/demo-car-description/static/css/main.70780ed6.chunk.css",
-    "main.js": "/demo-car-description/static/js/main.de7eca72.chunk.js",
-    "main.js.map": "/demo-car-description/static/js/main.de7eca72.chunk.js.map",
+    "main.js": "/demo-car-description/static/js/main.b2a9f9d8.chunk.js",
+    "main.js.map": "/demo-car-description/static/js/main.b2a9f9d8.chunk.js.map",
     "runtime-main.js": "/demo-car-description/static/js/runtime-main.71bac431.js",
     "runtime-main.js.map": "/demo-car-description/static/js/runtime-main.71bac431.js.map",
     "static/js/2.eae48dff.chunk.js": "/demo-car-description/static/js/2.eae48dff.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.71bac431.js",
     "static/js/2.eae48dff.chunk.js",
     "static/css/main.70780ed6.chunk.css",
-    "static/js/main.de7eca72.chunk.js"
+    "static/js/main.b2a9f9d8.chunk.js"
   ]
 }
